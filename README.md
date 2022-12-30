@@ -14,5 +14,4 @@
 •	Current motive is to look for future opportunities in the industry and focus on studying. <br>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aknro4&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknro4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
