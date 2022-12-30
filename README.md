@@ -10,7 +10,7 @@
 <br> <br> 
 •	Currently I’m student 🎓 at JAMK university of applied sciences studying to become ICT engineer and specialise in Data-analytics and AI development. <br>
 •	Interests are in Maths, simulations and AI development.📈 <br>
-•	Previously done simple account creation and login feature to a company demo webpage. And done instructions/guides for company software. <br>
+•	Previously done simple account creation and login feature to a company demo webpage🌐. And done instructions/guides for company software. <br>
 •	Current motive is to look for future opportunities in the industry and focus on studying. <br>
 
 ---
