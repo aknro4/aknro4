@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**aknro4/aknro4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> Hi there! 👋 </h1>
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="600" height="350"></img>
+</div>
 
-Here are some ideas to get you started:
+<h2>About me </h2>
+<b>
+ I’m Aaro from Finland
+</b>
+<br> <br> 
+•	Currently I’m student 🎓 at JAMK university of applied sciences studying to become ICT engineer and specialise in Data-analytics and AI development. <br>
+•	Interests are in Maths, simulations and AI development.📈 <br>
+•	Previously done simple account creation and login feature to a company demo webpage. And done instructions/guides for company software. <br>
+•	Current motive is to look for future opportunities in the industry and focus on studying. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknro4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
